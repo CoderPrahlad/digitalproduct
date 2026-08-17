@@ -1,0 +1,46 @@
+# =====================================================================
+# DevStore root .htaccess — security hardening
+# =====================================================================
+
+# ---- Custom error pages (no more ugly default server error screens) ----
+# NOTE: ErrorDocument paths are always relative to the DOMAIN ROOT, not to
+# this folder — so on a subfolder install (e.g. localhost/devstore1/) a
+# plain "ErrorDocument 404 /404.php" would incorrectly point to
+# localhost/404.php and 404 again. The RewriteRule below is relative to
+# wherever this .htaccess lives, so it works both in a subfolder (XAMPP
+# local testing) and at the domain root (live server) with zero editing.
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ 404.php [L]
+
+# ---- Block direct access to sensitive folders that have no business
+#      being requested directly over the web ----
+RewriteRule ^(logs|setup|vendor|mail|includes)/ - [F,L]
+
+# ---- Block direct access to sensitive individual files ----
+<FilesMatch "\.(sql|sql\.gz|log|md|lock|env|gitignore|htpasswd)$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>
+
+<FilesMatch "^(composer\.(json|lock))$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>
+
+# ---- No directory listing anywhere ----
+Options -Indexes
+
+# ---- Hide server signature ----
+ServerSignature Off

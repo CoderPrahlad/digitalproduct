@@ -1,0 +1,4 @@
+# Only block PHP execution, allow images
+<FilesMatch "\.(php|phtml|php3|php4|php5|php7|phar|pl|py|cgi|asp|aspx)$">
+    Require all denied
+</FilesMatch>

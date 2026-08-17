@@ -1,0 +1,5 @@
+# Only the callback file needs to be accessible
+<Files "*.php">
+  Order allow,deny
+  Allow from all
+</Files>

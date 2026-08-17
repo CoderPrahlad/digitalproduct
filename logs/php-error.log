@@ -1,0 +1,435 @@
+[13-Jul-2026 11:31:53 Asia/Kolkata] Uncaught exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'seller_id' in 'where clause' in C:\xampp\htdocs\devstore1\sell.php:89
+[13-Jul-2026 11:41:24 Asia/Kolkata] PHPMailer Error: SMTP Error: Could not authenticate.
+[13-Jul-2026 13:08:36 Asia/Kolkata] PHPMailer Error: SMTP Error: Could not authenticate.
+[13-Jul-2026 13:11:56 Asia/Kolkata] PHPMailer Error: SMTP Error: Could not authenticate.
+[13-Jul-2026 16:29:51 Asia/Kolkata] PHPMailer Error: SMTP Error: Could not authenticate.
+[13-Jul-2026 16:34:10 Asia/Kolkata] PHPMailer Error: SMTP Error: Could not authenticate.
+[14-Jul-2026 12:57:59 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:40
+[14-Jul-2026 12:58:31 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:40
+[14-Jul-2026 13:01:28 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:45
+[14-Jul-2026 13:01:30 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:45
+[14-Jul-2026 13:01:53 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:45
+[14-Jul-2026 13:01:54 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:45
+[14-Jul-2026 13:01:54 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:45
+[14-Jul-2026 13:01:54 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:45
+[14-Jul-2026 13:01:55 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:45
+[14-Jul-2026 13:02:24 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:45
+[14-Jul-2026 13:02:29 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:45
+[14-Jul-2026 13:02:33 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:45
+[14-Jul-2026 13:03:25 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:45
+[14-Jul-2026 13:05:17 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:45
+[14-Jul-2026 13:05:18 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:45
+[14-Jul-2026 13:05:25 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:45
+[14-Jul-2026 13:10:17 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:48
+[14-Jul-2026 13:10:18 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:48
+[14-Jul-2026 13:10:19 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:48
+[14-Jul-2026 13:10:19 Asia/Kolkata] Uncaught exception: Call to undefined function getUserReferralCode() in C:\xampp\htdocs\devstore1\dashboard.php:48
+[14-Jul-2026 13:10:38 Asia/Kolkata] Uncaught exception: Call to undefined function requireLogin() in C:\xampp\htdocs\devstore1\dashboard.php:5
+[14-Jul-2026 13:10:39 Asia/Kolkata] Uncaught exception: Call to undefined function requireLogin() in C:\xampp\htdocs\devstore1\dashboard.php:5
+[14-Jul-2026 13:10:39 Asia/Kolkata] Uncaught exception: Call to undefined function requireLogin() in C:\xampp\htdocs\devstore1\dashboard.php:5
+[14-Jul-2026 13:10:40 Asia/Kolkata] Uncaught exception: Call to undefined function requireLogin() in C:\xampp\htdocs\devstore1\dashboard.php:5
+[14-Jul-2026 13:10:40 Asia/Kolkata] Uncaught exception: Call to undefined function requireLogin() in C:\xampp\htdocs\devstore1\dashboard.php:5
+[14-Jul-2026 13:10:40 Asia/Kolkata] Uncaught exception: Call to undefined function requireLogin() in C:\xampp\htdocs\devstore1\dashboard.php:5
+[14-Jul-2026 13:11:53 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:11:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:11:53 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:11:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:11:53 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:11:53 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:11:53 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:11:53 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:12:01 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:12:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:12:01 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:12:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:12:01 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:12:01 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:12:01 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:12:01 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:12:02 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:12:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:12:02 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:12:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:12:02 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:12:02 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:12:02 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:12:02 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:13:40 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:13:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:13:40 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:13:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:13:40 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:13:40 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:13:40 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:13:40 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:13:43 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:13:43 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:13:43 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:13:43 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:13:43 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:13:43 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:13:43 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:13:43 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:13:48 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:13:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:13:48 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:13:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:13:48 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:13:48 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:13:48 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:13:48 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:13:50 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:13:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:13:50 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:13:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:13:50 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:13:50 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:13:50 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:13:50 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:14:42 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:14:42 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:14:42 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:14:42 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:14:42 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:14:42 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:14:42 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:14:42 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:14:46 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:14:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:14:46 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:14:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:14:46 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:14:46 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:14:46 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:14:46 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:14:49 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:14:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:14:49 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:14:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:14:49 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:14:49 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:14:49 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:14:49 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:14:55 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:14:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:14:55 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:14:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:14:55 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:14:55 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:14:55 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:14:55 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:14:59 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:14:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:14:59 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:14:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:14:59 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:14:59 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:14:59 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:14:59 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:15:15 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:15:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:15:15 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:15:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:15:15 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:15:15 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:15:15 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:15:15 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:16:03 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:16:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:16:03 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:16:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:16:03 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:16:03 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:16:03 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:16:03 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:16:04 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:16:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:16:04 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:16:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:16:04 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:16:04 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:16:04 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:16:04 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:16:11 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:16:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:16:11 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:16:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:16:11 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:16:11 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:16:11 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:16:11 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:22:57 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:22:57 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:22:57 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:22:57 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:22:57 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:22:57 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:22:57 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:22:57 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:22:59 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:22:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:22:59 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:22:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:22:59 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:22:59 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:22:59 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:22:59 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:23:34 Asia/Kolkata] PHPMailer Error: SMTP Error: Could not authenticate.
+[14-Jul-2026 13:23:50 Asia/Kolkata] PHPMailer Error: SMTP Error: Could not authenticate.
+[14-Jul-2026 13:28:46 Asia/Kolkata] PHPMailer Error: SMTP Error: Could not authenticate.
+[14-Jul-2026 13:31:12 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:31:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:31:12 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:31:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:31:12 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:31:12 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:31:12 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:31:12 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:33:30 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:33:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 423
+[14-Jul-2026 13:33:30 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:33:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 427
+[14-Jul-2026 13:33:30 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 431
+[14-Jul-2026 13:33:30 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 440
+[14-Jul-2026 13:33:30 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 445
+[14-Jul-2026 13:33:30 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 447
+[14-Jul-2026 13:54:48 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 424
+[14-Jul-2026 13:54:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 424
+[14-Jul-2026 13:54:48 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 428
+[14-Jul-2026 13:54:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 428
+[14-Jul-2026 13:54:48 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 432
+[14-Jul-2026 13:54:48 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 441
+[14-Jul-2026 13:54:48 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 446
+[14-Jul-2026 13:54:48 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 448
+[14-Jul-2026 13:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 424
+[14-Jul-2026 13:55:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 424
+[14-Jul-2026 13:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 428
+[14-Jul-2026 13:55:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 428
+[14-Jul-2026 13:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 432
+[14-Jul-2026 13:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 441
+[14-Jul-2026 13:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 446
+[14-Jul-2026 13:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 448
+[14-Jul-2026 13:55:04 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 424
+[14-Jul-2026 13:55:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 424
+[14-Jul-2026 13:55:04 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 428
+[14-Jul-2026 13:55:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 428
+[14-Jul-2026 13:55:04 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 432
+[14-Jul-2026 13:55:04 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 441
+[14-Jul-2026 13:55:04 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 446
+[14-Jul-2026 13:55:04 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 448
+[14-Jul-2026 13:58:28 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 424
+[14-Jul-2026 13:58:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 424
+[14-Jul-2026 13:58:28 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 428
+[14-Jul-2026 13:58:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 428
+[14-Jul-2026 13:58:28 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 432
+[14-Jul-2026 13:58:28 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 441
+[14-Jul-2026 13:58:28 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 446
+[14-Jul-2026 13:58:28 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 448
+[14-Jul-2026 14:03:15 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 424
+[14-Jul-2026 14:03:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 424
+[14-Jul-2026 14:03:15 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 428
+[14-Jul-2026 14:03:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 428
+[14-Jul-2026 14:03:15 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 432
+[14-Jul-2026 14:03:15 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 441
+[14-Jul-2026 14:03:15 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 446
+[14-Jul-2026 14:03:15 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 448
+[14-Jul-2026 14:03:20 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 424
+[14-Jul-2026 14:03:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 424
+[14-Jul-2026 14:03:20 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 428
+[14-Jul-2026 14:03:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 428
+[14-Jul-2026 14:03:20 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 432
+[14-Jul-2026 14:03:20 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 441
+[14-Jul-2026 14:03:20 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 446
+[14-Jul-2026 14:03:20 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 448
+[14-Jul-2026 14:03:22 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 424
+[14-Jul-2026 14:03:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 424
+[14-Jul-2026 14:03:22 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 428
+[14-Jul-2026 14:03:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 428
+[14-Jul-2026 14:03:22 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 432
+[14-Jul-2026 14:03:22 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 441
+[14-Jul-2026 14:03:22 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 446
+[14-Jul-2026 14:03:22 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 448
+[14-Jul-2026 17:31:57 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:31:57 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:31:57 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:31:57 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:31:57 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:31:57 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:31:57 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:31:57 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[14-Jul-2026 17:32:31 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:32:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:32:31 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:32:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:32:31 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:32:31 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:32:31 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:32:31 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[14-Jul-2026 17:32:35 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:32:35 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:32:35 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:32:35 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:32:35 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:32:35 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:32:35 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:32:35 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[14-Jul-2026 17:32:38 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:32:38 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:32:38 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:32:38 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:32:38 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:32:38 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:32:38 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:32:38 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[14-Jul-2026 17:32:39 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:32:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:32:39 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:32:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:32:39 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:32:39 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:32:39 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:32:39 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[14-Jul-2026 17:32:41 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:32:41 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:32:41 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:32:41 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:32:41 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:32:41 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:32:41 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:32:41 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[14-Jul-2026 17:32:44 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:32:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:32:44 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:32:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:32:44 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:32:44 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:32:44 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:32:44 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[14-Jul-2026 17:32:45 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:32:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:32:45 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:32:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:32:45 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:32:45 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:32:45 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:32:45 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[14-Jul-2026 17:32:47 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:32:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:32:47 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:32:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:32:47 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:32:47 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:32:47 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:32:47 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[14-Jul-2026 17:33:07 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:33:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:33:07 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:33:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:33:07 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:33:07 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:33:07 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:33:07 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[14-Jul-2026 17:33:13 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:33:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:33:13 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:33:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:33:13 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:33:13 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:33:13 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:33:13 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[14-Jul-2026 17:33:16 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:33:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:33:16 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:33:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:33:16 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:33:16 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:33:16 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:33:16 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[14-Jul-2026 17:33:21 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:33:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:33:21 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:33:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:33:21 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:33:21 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:33:21 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:33:21 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[14-Jul-2026 17:33:25 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:33:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:33:25 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:33:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:33:25 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:33:25 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:33:25 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:33:25 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[14-Jul-2026 17:33:26 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:33:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:33:26 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:33:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:33:26 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:33:26 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:33:26 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:33:26 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[14-Jul-2026 17:33:36 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:33:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:33:36 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:33:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:33:36 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:33:36 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:33:36 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:33:36 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[14-Jul-2026 17:36:28 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:36:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:36:28 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:36:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:36:28 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:36:28 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:36:28 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:36:28 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[14-Jul-2026 17:36:34 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:36:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:36:34 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:36:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:36:34 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:36:34 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:36:34 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:36:34 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[14-Jul-2026 17:39:05 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:39:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 481
+[14-Jul-2026 17:39:05 Asia/Kolkata] PHP Notice:  Undefined variable: refStats in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:39:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\devstore1\dashboard.php on line 485
+[14-Jul-2026 17:39:05 Asia/Kolkata] PHP Notice:  Undefined variable: walletBal in C:\xampp\htdocs\devstore1\dashboard.php on line 489
+[14-Jul-2026 17:39:05 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 498
+[14-Jul-2026 17:39:05 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 503
+[14-Jul-2026 17:39:05 Asia/Kolkata] PHP Notice:  Undefined variable: refLink in C:\xampp\htdocs\devstore1\dashboard.php on line 505
+[15-Aug-2026 15:21:04 Asia/Kolkata] Uncaught exception: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in C:\xampp\htdocs\devstore1\index.php:7
+[15-Aug-2026 22:53:04 Asia/Kolkata] Uncaught exception: syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\devstore1\config\functions.php:445
+[15-Aug-2026 22:53:10 Asia/Kolkata] Uncaught exception: syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\devstore1\config\functions.php:445
+[15-Aug-2026 22:53:13 Asia/Kolkata] Uncaught exception: syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\devstore1\config\functions.php:445
+[15-Aug-2026 22:53:14 Asia/Kolkata] Uncaught exception: syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\devstore1\config\functions.php:445
+[15-Aug-2026 22:53:14 Asia/Kolkata] Uncaught exception: syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\devstore1\config\functions.php:445
+[15-Aug-2026 22:53:14 Asia/Kolkata] Uncaught exception: syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\devstore1\config\functions.php:445
+[15-Aug-2026 22:53:15 Asia/Kolkata] Uncaught exception: syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\devstore1\config\functions.php:445
+[15-Aug-2026 22:53:26 Asia/Kolkata] Uncaught exception: syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\devstore1\config\functions.php:445
+[15-Aug-2026 22:55:29 Asia/Kolkata] Uncaught exception: syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\devstore1\config\functions.php:445
+[16-Aug-2026 07:28:40 Asia/Kolkata] Uncaught exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'digital.messages' doesn't exist in C:\xampp\htdocs\devstore1\admin\dashboard.php:19
+[16-Aug-2026 07:36:55 Asia/Kolkata] PHP Notice:  Undefined variable: totalReviews in C:\xampp\htdocs\devstore1\admin\dashboard.php on line 250
+[16-Aug-2026 07:39:36 Asia/Kolkata] PHP Notice:  Undefined variable: totalReviews in C:\xampp\htdocs\devstore1\admin\dashboard.php on line 250
+[16-Aug-2026 08:34:58 Asia/Kolkata] Uncaught exception: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'created_at' in where clause is ambiguous in C:\xampp\htdocs\devstore1\admin\dashboard.php:35
+[16-Aug-2026 08:37:54 Asia/Kolkata] Uncaught exception: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'created_at' in where clause is ambiguous in C:\xampp\htdocs\devstore1\admin\dashboard.php:35
+[16-Aug-2026 08:37:55 Asia/Kolkata] Uncaught exception: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'created_at' in where clause is ambiguous in C:\xampp\htdocs\devstore1\admin\dashboard.php:35
+[16-Aug-2026 08:39:58 Asia/Kolkata] Uncaught exception: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'created_at' in where clause is ambiguous in C:\xampp\htdocs\devstore1\admin\dashboard.php:35
+[16-Aug-2026 08:39:59 Asia/Kolkata] Uncaught exception: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'created_at' in where clause is ambiguous in C:\xampp\htdocs\devstore1\admin\dashboard.php:35
+[16-Aug-2026 08:39:59 Asia/Kolkata] Uncaught exception: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'created_at' in where clause is ambiguous in C:\xampp\htdocs\devstore1\admin\dashboard.php:35
+[16-Aug-2026 08:46:43 Asia/Kolkata] Uncaught exception: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'created_at' in where clause is ambiguous in C:\xampp\htdocs\devstore1\admin\dashboard.php:39
+[16-Aug-2026 08:46:45 Asia/Kolkata] Uncaught exception: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'created_at' in where clause is ambiguous in C:\xampp\htdocs\devstore1\admin\dashboard.php:39
+[16-Aug-2026 08:46:46 Asia/Kolkata] Uncaught exception: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'created_at' in where clause is ambiguous in C:\xampp\htdocs\devstore1\admin\dashboard.php:39
+[16-Aug-2026 08:49:42 Asia/Kolkata] Uncaught exception: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'created_at' in where clause is ambiguous in C:\xampp\htdocs\devstore1\admin\dashboard.php:39
+[16-Aug-2026 08:51:17 Asia/Kolkata] Uncaught exception: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'created_at' in where clause is ambiguous in C:\xampp\htdocs\devstore1\admin\dashboard.php:39
+[16-Aug-2026 08:54:16 Asia/Kolkata] Uncaught exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'where clause' in C:\xampp\htdocs\devstore1\admin\dashboard.php:31
+[16-Aug-2026 15:45:08 Asia/Kolkata] PHPMailer Error: SMTP Error: Could not authenticate.
+[16-Aug-2026 15:45:59 Asia/Kolkata] PHPMailer Error: SMTP Error: Could not authenticate.
+[16-Aug-2026 15:46:15 Asia/Kolkata] PHPMailer Error: SMTP Error: Could not authenticate.
+[16-Aug-2026 15:46:53 Asia/Kolkata] PHPMailer Error: SMTP Error: Could not authenticate.
+[16-Aug-2026 15:47:23 Asia/Kolkata] PHPMailer Error: SMTP Error: Could not authenticate.
+[16-Aug-2026 15:53:39 Asia/Kolkata] PHPMailer Error: SMTP Error: Could not authenticate.
+[16-Aug-2026 18:02:59 Asia/Kolkata] PHPMailer Error: SMTP Error: Could not authenticate.

@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /config/
+Disallow: /includes/
+Disallow: /secure_downloads/
+Disallow: /uploads/proofs/
+Disallow: /logs/
+Disallow: /api/
+Disallow: /setup/
+Disallow: /vendor/
+Disallow: /mail/
+Disallow: /pay/
+Disallow: /checkout.php
+Disallow: /download.php
+Disallow: /dashboard.php
+Disallow: /wishlist.php
+Disallow: /logout.php
+
+# Sitemap location
+Sitemap: https://APNA-DOMAIN.COM/sitemap.php
