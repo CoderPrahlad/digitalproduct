@@ -32,10 +32,10 @@ set_exception_handler(function($e) {
 });
 
 // ---- DATABASE (must stay hardcoded — needed to open the connection) ----
-define('DB_HOST', '127.0.0.1');
-define('DB_NAME', 'digital');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_HOST', '82.25.121.202');
+define('DB_NAME', 'u137390330_digitalproduct');
+define('DB_USER', 'u137390330_digitalproduct');
+define('DB_PASS', 'u137390330_Digitalproduct');
 
 // ---- SESSION HARDENING ----
 if (session_status() === PHP_SESSION_NONE) {
